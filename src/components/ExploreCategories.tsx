@@ -1,32 +1,32 @@
 const categories = [
   {
     title: "Career Development",
-    image: "/placeholder.svg",
+    image: "/photo-1649972904349-6e44c42644a7",
     count: "50 Programs",
   },
   {
     title: "Personal Growth",
-    image: "/placeholder.svg",
+    image: "/photo-1581091226825-a6a2a5aee158",
     count: "45 Programs",
   },
   {
     title: "Leadership",
-    image: "/placeholder.svg",
+    image: "/photo-1721322800607-8c38375eef04",
     count: "35 Programs",
   },
   {
     title: "Life Balance",
-    image: "/placeholder.svg",
+    image: "/photo-1649972904349-6e44c42644a7",
     count: "40 Programs",
   },
   {
     title: "Business Coaching",
-    image: "/placeholder.svg",
+    image: "/photo-1581091226825-a6a2a5aee158",
     count: "30 Programs",
   },
   {
     title: "Mindfulness",
-    image: "/placeholder.svg",
+    image: "/photo-1721322800607-8c38375eef04",
     count: "25 Programs",
   },
 ];

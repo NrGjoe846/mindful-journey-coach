@@ -2,25 +2,25 @@ const coaches = [
   {
     name: "Sarah Johnson",
     specialty: "Leadership Coach",
-    image: "/placeholder.svg",
+    image: "/photo-1649972904349-6e44c42644a7",
     rating: "4.9",
   },
   {
     name: "Michael Chen",
     specialty: "Career Coach",
-    image: "/placeholder.svg",
+    image: "/photo-1581091226825-a6a2a5aee158",
     rating: "4.8",
   },
   {
     name: "Emma Davis",
     specialty: "Life Coach",
-    image: "/placeholder.svg",
+    image: "/photo-1721322800607-8c38375eef04",
     rating: "4.7",
   },
   {
     name: "James Wilson",
     specialty: "Business Coach",
-    image: "/placeholder.svg",
+    image: "/photo-1649972904349-6e44c42644a7",
     rating: "4.9",
   },
 ];
